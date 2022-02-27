@@ -8,7 +8,7 @@ setup(
   author = 'Anushri Jain',                
   author_email = 'ajain4_be19@thapar.edu',      
   url = 'https://github.com/anushri2325/Topsis_Anushri_101903678',   
-  download_url = '',    
+  download_url = 'https://github.com/anushri2325/Topsis_Anushri_101903678/archive/refs/tags/version.tar.gz',    
   keywords = ['topsis','topsis score','rank','Thapar'],
   install_requires=['numpy','pandas' ],
   classifiers=[
